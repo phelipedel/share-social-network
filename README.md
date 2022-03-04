@@ -1,8 +1,11 @@
 # share social network
- 
+ [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](http://phelipedel.com/)
+
+![gif](https://cdn.discordapp.com/attachments/639869522387664896/949371759612821514/20220304_151257Edit_AdobeCreativeCloudExpress.gif )
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](http://phelipedel.com/)
+
+
 
 Modelo simples e bonito para usar em suas rede social e poupar espaco .
 
